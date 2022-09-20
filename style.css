@@ -1,0 +1,52 @@
+* {
+  text-align: center;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url(https://img.elo7.com.br/product/zoom/27A3A0B/big-poster-tom-clancys-rainbow-six-siege-lo06-90x60-cm-presente-gamer.jpg);
+  background-color: black;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+input {
+  margin: 4px;
+  padding: 6px;
+  border-radius: 10px;
+  border-color: black;
+  background: dimgrey;
+  color: white;
+}
+
+#adicionar {
+  margin-top: 80px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: dimgrey;
+  color: white;
+}
+
+button {
+  padding: 4px 8px;
+  border-radius: 10px;
+}
+
+table {
+  border: 2px solid white;
+  border-collapse: collapse;
+  margin-top: 30px;
+}
+
+h1 {
+  color: white;
+}
+
+th,
+tr,
+td {
+  border: solid 1px white;
+  color: white;
+}
